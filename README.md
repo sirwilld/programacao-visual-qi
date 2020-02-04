@@ -1,3 +1,3 @@
 # Linguagem de Programação Visual
 
-## Conteúdos ganhados na matéria de Linguagem de Programação Visual da QI 
+Todo conteúdo das aulas de *Programação Visual* do curso de Técnico em Informática da QI 
